@@ -1,0 +1,28 @@
+{
+  "name": "solidity-code-bits",
+  "version": "1.0.0",
+  "description": "\"I thought it, I wrote it\", kind of Solidity codes. More random than your transaction hash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encKrish/solidity-code-bits.git"
+  },
+  "keywords": [
+    "solidity",
+    "smart-contracts",
+    "ethereum"
+  ],
+  "author": "Krishnendu Sengupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/encKrish/solidity-code-bits/issues"
+  },
+  "homepage": "https://github.com/encKrish/solidity-code-bits#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "hardhat": "^2.8.0"
+  }
+}
